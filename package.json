@@ -1,0 +1,28 @@
+{
+  "name": "apple-icns",
+  "version": "0.0.0",
+  "description": "Apple Icon Image format",
+  "license": "MIT",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "keywords": [
+    "apple",
+    "icns",
+    "icon",
+    "image",
+    "format"
+  ],
+  "main": "lib/icns.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-apple-icns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-apple-icns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-apple-icns/issues"
+  }
+}
