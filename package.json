@@ -1,9 +1,9 @@
 {
   "name": "apple-icns",
   "version": "0.0.0",
-  "description": "Apple Icon Image format",
-  "license": "MIT",
+  "description": "Apple IconSet (.icns) file format",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
   "keywords": [
     "apple",
     "icns",
