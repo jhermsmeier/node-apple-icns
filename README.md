@@ -12,12 +12,9 @@ Apple IconSet (.icns) file format
 $ npm install --save apple-icns
 ```
 
-## TODO
+## Used by
 
-- [ ] TOC & icnV resource types
-- [ ] extraction (dumping raw jpeg/png, and decompress and combine for raw)
-- [ ] creation
-- [ ] addition
+- [moimart/hyper-folder-icon](https://github.com/moimart/hyper-folder-icon) – A [Hyperterm](https://hyper.is) extension to show the folder icon in MacOS
 
 ## Usage
 
@@ -82,6 +79,12 @@ iconset.readEntryData( iconset.entries[3], function( error, buffer ) {
   console.log( 'Icon', error || buffer )
 })
 ```
+
+## TODO
+
+- [ ] extraction (dumping raw jpeg/png, and decompress and combine for raw)
+- [ ] creation
+- [ ] addition
 
 ## References
 
